@@ -1,0 +1,130 @@
+sku;main_category;sub_category;product_name;price
+SKN001;Skincare;Creme Viso;Crema Idratante Quotidiana;29.99
+SKN002;Skincare;Creme Viso;Crema Anti-Rossore;34.99
+SKN003;Skincare;Creme Viso;Crema Anti-Inquinamento;30.99
+SKN004;Skincare;Creme Viso;Crema Rigenerante Notte;37.99
+SKN005;Skincare;Creme Viso;Crema Illuminante;25.99
+SKN006;Skincare;Sieri;Siero Acido Ialuronico;45.99
+SKN007;Skincare;Sieri;Siero Vitamina C;47.99
+SKN008;Skincare;Sieri;Siero Rinnovatore;42.99
+SKN009;Skincare;Creme Notte;Crema Notte Riparatrice;39.99
+SKN010;Skincare;Creme Notte;Crema Notte Anti-Età;55.99
+SKN011;Skincare;Creme Notte;Crema Notte Idratante Intensiva;33.99
+SKN012;Skincare;Creme Notte;Crema Notte Pelli Sensibili;29.99
+SKN013;Skincare;Maschere Viso;Maschera Detox Argilla;19.99
+SKN014;Skincare;Maschere Viso;Maschera Idratante;24.99
+SKN015;Skincare;Maschere Viso;Maschera Esfoliante;22.99
+SKN016;Skincare;Maschere Viso;Maschera Peel-off Illuminante;17.99
+SKN017;Skincare;Maschere Viso;Maschera Notte Rimpolpante;27.99
+SKN018;Skincare;Pulizia Viso;Gel Detergente Profondo;14.99
+SKN019;Skincare;Pulizia Viso;Olio Detergente;22.99
+SKN020;Skincare;Pulizia Viso;Mousse Detergente;12.99
+MKP001;MakeUp;Smalti;Smalto Gel Lunga Durata;9.99
+MKP002;MakeUp;Smalti;Smalto Effetto Opaco;7.99
+MKP003;MakeUp;Smalti;Smalto Rinforzante e Brillante;12.99
+MKP004;MakeUp;Smalti;Smalto Rapida Asciugatura;10.99
+MKP005;MakeUp;Smalti;Smalto Ipoallergenico;8.99
+MKP006;MakeUp;Smalti;Top Coat Effetto Gel;10.49
+MKP007;MakeUp;Rossetti;Rossetto Idratante Color Ciliegia;15.99
+MKP008;MakeUp;Rossetti;Rossetto Matte Lunga Tenuta;17.99
+MKP009;MakeUp;Rossetti;Rossetto Liquido Effetto Velluto;19.99
+MKP010;MakeUp;Rossetti;Tinta Labbra No Transfer;16.99
+MKP011;MakeUp;Rossetti;Balsamo Labbra Colorato;12.99
+MKP012;MakeUp;Mascara;Mascara Volumizzante Waterproof;24.99
+MKP013;MakeUp;Mascara;Mascara Allungante e Definente;22.99
+MKP014;MakeUp;Mascara;Mascara Effetto Ciglia Finte;20.99
+MKP015;MakeUp;Mascara;Mascara Curvante e Nutriente;18.99
+MKP016;MakeUp;Eyeliner;Eyeliner Liquido Precisione;14.99
+MKP017;MakeUp;Eyeliner;Eyeliner in Gel Lunga Tenuta;16.99
+MKP018;MakeUp;Eyeliner;Eyeliner Pennarello Waterproof;12.99
+MKP019;MakeUp;Eyeliner;Kajal Matita Occhi Intenso;9.99
+MKP020;MakeUp;Correttori;Correttore Liquido Illuminante;21.99
+MKP021;MakeUp;Correttori;Correttore Stick Coprente;19.99
+MKP022;MakeUp;Struccanti;Acqua Micellare Struccante;14.99
+MKP023;MakeUp;Struccanti;Latte Detergente Delicato;12.99
+MKP024;MakeUp;Fondotinta;Fondotinta Liquido Effetto Naturale;29.99
+MKP025;MakeUp;Fondotinta;Fondotinta Compatta Opacizzante;27.99
+MKP026;MakeUp;Fondotinta;BB Cream Idratante Colorata;22.99
+MKP027;MakeUp;Fondotinta;Cushion Foundation Portatile;32.99
+MKP028;MakeUp;Fondotinta;Fondotinta Minerale in Polvere;25.99
+CPL001;Capelli;Shampoo;Shampoo Rinforzante;12.99
+CPL002;Capelli;Shampoo;Shampoo Antiforfora;15.99
+CPL003;Capelli;Shampoo;Shampoo Volumizzante;10.99
+CPL004;Capelli;Shampoo;Shampoo Idratante;9.99
+CPL005;Capelli;Shampoo;Shampoo Lucidante;11.99
+CPL006;Capelli;Shampoo;Shampoo Nutriente Colorati;14.99
+CPL007;Capelli;Shampoo;Shampoo Anti-Crespo;13.99
+CPL008;Capelli;Shampoo;Shampoo Riequilibrante;16.99
+CPL009;Capelli;Shampoo;Shampoo Purificante;12.99
+CPL010;Capelli;Shampoo;Shampoo Secco Rivitalizzante;9.99
+CPL011;Capelli;Balsami;Balsamo Riparatore;15.99
+CPL012;Capelli;Balsami;Balsamo Districante;10.99
+CPL013;Capelli;Balsami;Balsamo Protezione Colore;16.99
+CPL014;Capelli;Balsami;Balsamo Volume;13.99
+CPL015;Capelli;Balsami;Balsamo Nutriente;11.99
+CPL016;Capelli;Balsami;Balsamo Anti-Crespo;12.99
+CPL017;Capelli;Balsami;Balsamo Rinfrescante;14.99
+CPL018;Capelli;Colorazioni;Tinta Permanente Nero Intenso;9.99
+CPL019;Capelli;Colorazioni;Tinta Semi-Permanente Rosso Rubino;8.99
+CPL020;Capelli;Colorazioni;Kit Schiaritura;14.99
+CPL021;Capelli;Colorazioni;Tinta Temporanea Spray Rosa;7.99
+CPL022;Capelli;Colorazioni;Tinta Cremosa Biondo Miele;10.99
+CPL023;Capelli;Colorazioni;Tinta Vegana Castano Naturale;12.99
+CPL024;Capelli;Colorazioni;Henné Naturale Rame;11.99
+CPL025;Capelli;Accessori;Spazzola Districante;8.99
+CPL026;Capelli;Accessori;Elastici Senza Strappo;5.99
+CPL027;Capelli;Accessori;Fascia per Capelli Turbante;7.99
+CPL028;Capelli;Accessori;Set Bigodini Flessibili;12.99
+CPL029;Capelli;Protezione;Spray Protezione Termica;13.99
+CPL030;Capelli;Protezione;Siero Protezione Split Ends;16.99
+CPL031;Capelli;Protezione;Crema Protezione Colore;14.99
+CPL032;Capelli;Scalp Care;Trattamento Antiforfora;19.99
+CPL033;Capelli;Scalp Care;Maschera Detox Cuoio Capelluto;18.99
+CPL034;Capelli;Scalp Care;Lozione Equilibrante;21.99
+CPL035;Capelli;Scalp Care;Peeling Esfoliante Cuoio Capelluto;17.99
+CPL036;Capelli;Scalp Care;Olio Essenziale Calmante;20.99
+CRP001;Corpo;Detergenti;Gel Doccia Idratante;7.99
+CRP002;Corpo;Detergenti;Sapone Liquido Esfoliante;9.99
+CRP003;Corpo;Detergenti;Olio Doccia Nutriente;12.99
+CRP004;Corpo;Detergenti;Crema Detergente Delicata;8.99
+CRP005;Corpo;Detergenti;Mousse Doccia Rivitalizzante;11.99
+CRP006;Corpo;Detergenti;Sapone Solido Naturale;5.99
+CRP007;Corpo;Idratanti;Lotion Corpo Idratazione Profonda;14.99
+CRP008;Corpo;Idratanti;Burro Corpo Nutriente;16.99
+CRP009;Corpo;Idratanti;Olio Corpo Elasticizzante;18.99
+CRP010;Corpo;Idratanti;Crema Corpo Rassodante;19.99
+CRP011;Corpo;Esfolianti;Scrub Corpo al Sale Marino;17.99
+CRP012;Corpo;Esfolianti;Scrub Corpo al Caffè;15.99
+CRP013;Corpo;Esfolianti;Peeling Corpo agli Enzimi;20.99
+CRP014;Corpo;Esfolianti;Scrub Corpo al Cocco;13.99
+CRP015;Corpo;Esfolianti;Guanto Esfoliante di Seta;10.99
+CRP016;Corpo;Esfolianti;Scrub Corpo Purificante all'Argilla;16.99
+CRP017;Corpo;Esfolianti;Gel Esfoliante Corpo;14.99
+CRP018;Corpo;Abbronzanti;Lotion Abbronzante Progressiva;21.99
+CRP019;Corpo;Abbronzanti;Spray Abbronzante Istantaneo;23.99
+CRP020;Corpo;Abbronzanti;Olio Abbronzante Protezione;25.99
+CRP021;Corpo;Protezioni Solari;Crema Solare SPF 50+;19.99
+CRP022;Corpo;Protezioni Solari;Spray Solare Invisible SPF 30;17.99
+CRP023;Corpo;Protezioni Solari;Latte Solare Bambini SPF 50;15.99
+CRP024;Corpo;Depilazione;Crema Depilatoria Delicata;12.99
+CRP025;Corpo;Depilazione;Cera Depilatoria Orientale;14.99
+CRP026;Corpo;Depilazione;Rasoio Elettrico Femminile;29.99
+CRP027;Corpo;Depilazione;Kit Depilazione Laser a Casa;199.99
+CRP028;Corpo;Anticellulite;Crema Anticellulite Rassodante;22.99
+CRP029;Corpo;Anticellulite;Serum Anticellulite Intensivo;24.99
+CRP030;Corpo;Anticellulite;Olio Anticellulite Drenante;26.99
+CRP031;Corpo;Anticellulite;Gel Criogenico Anticellulite;28.99
+CRP032;Corpo;Anticellulite;Fango Anticellulite Detox;30.99
+CRP033;Corpo;Anticellulite;Massaggiatore Anticellulite Elettrico;70.99
+CRP034;Corpo;Anticellulite;Coppetta Anticellulite in Silicone;15.99
+CRP035;Corpo;Bagno;Sali da Bagno Rilassanti;9.99
+CRP036;Corpo;Bagno;Bomba da Bagno Effervescente;4.99
+CRP037;Corpo;Bagno;Olio da Bagno Nutriente;11.99
+CRP038;Corpo;Bagno;Latte da Bagno Idratante;7.99
+CRP039;Corpo;Bagno;Schiuma da Bagno Aromaterapica;13.99
+CRP040;Corpo;Bagno;Cristalli da Bagno Purificanti;8.99
+CRP041;Corpo;Oli Essenziali;Olio Essenziale di Lavanda;10.99
+CRP042;Corpo;Oli Essenziali;Olio Essenziale di Tea Tree;12.99
+CRP043;Corpo;Oli Essenziali;Olio Essenziale di Rosmarino;14.99
+CRP044;Corpo;Oli Essenziali;Olio Essenziale di Eucalipto;9.99
+CRP045;Corpo;Oli Essenziali;Olio Essenziale di Menta;11.99
